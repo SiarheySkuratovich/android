@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">swapActivity</string>
+    <string name="Back">Back</string>
+    <string name="go_to_new_activity">Go to new activity</string>
+</resources>
