@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnBLR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Belarussian" />
+
+    <Button
+        android:id="@+id/btnENG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="English" />
+
+    <Button
+        android:id="@+id/btnRUS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Russian" />
+</LinearLayout>
